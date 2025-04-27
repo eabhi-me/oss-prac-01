@@ -70,6 +70,7 @@ For seasoned contributors, this section delves into leadership roles, community 
    - Fill in the description so that you can identify the repository later on.
    - Scroll down and click the **Create fork** button at the bottom of the form.
 3. After your new repository is created go about the steps as mentioned in the subdirectories as per your level of expertise.
+4. Start form the **Beginner** folder
 
 ## Contributors 🥳🎉
 
