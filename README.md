@@ -61,7 +61,7 @@ For seasoned contributors, this section delves into leadership roles, community 
 
 ## Time to Start 🚀
 
-<a href="https://github.com/eabhi-me/oss101/fork"><img width="170" src="https://github.com/NebulaTris/oss101/assets/94922914/b5220396-65c8-463b-a1b7-f78a6835c29f"></a>
+<a href="https://github.com/eabhi-me/oss-prac-01/fork"><img width="170" src="https://github.com/NebulaTris/oss101/assets/94922914/b5220396-65c8-463b-a1b7-f78a6835c29f"></a>
 
 1. Right-click **Start Challenge** and open the link in a new tab.
 2. In the new tab,
